@@ -1,0 +1,9 @@
+1. properly normalization from [-1 1] to [0 1]
+2. early stop validation max fail times
+3. hidden nodes numbers (increasing)
+4. top N methods (top 1 v.s. top 10 v.s. top 100)
+5. Feature engineering
+
+1. randomly selection ---> 2. select the best top 1---->3. select top 100
+---->4. normalization (top10) -----> 5. adjust early termination parameters(top10)
+---->6. feature engineering to (top10)

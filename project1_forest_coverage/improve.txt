@@ -1,0 +1,5 @@
+use mapminmax to normalize data or mapstd
+suggested trails: 30 different trials
+
+Choose a Multilayer Neural Network Training Function (9 different functions)  (trainscg is default training function)
+Choose Neural Network Input-Output Processing Functions
